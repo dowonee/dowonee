@@ -1,10 +1,3 @@
-
-<div align=center>
- 
- <br/> 
- <br/> 
- 
-
 # 🛠 Skills 🛠
  <br/> 
 
