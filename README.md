@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,2,0&height=200&section=header&text=DowonJung&fontSize=80)
 
 <div align=center>
  
