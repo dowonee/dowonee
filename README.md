@@ -1,16 +1,13 @@
-## Hi there 👋
+‘읽기 쉬운 코드’는 협업의 시작점이라는 생각으로 유지보수와 커뮤니케이션을 고려한 개발을 지향합니다.
 
-<!--
-**dowonee/dowonee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📌 [개인 프로젝트 JANBI](https://github.com/orgs/jan-bi/repositories)
+경쟁사 웹페이지의 DOM 요소 변경을 추적해주는 Slack 알림 도구, JANBI
+사용자가 관심 있는 웹페이지의 특정 요소를 선택하면 해당 요소의 텍스트나 이미지가 변경될 때마다 Slack으로 알림을 보내주는 도구입니다.
+마케팅, 모니터링, 상품 가격 추적 등 다양한 업무에 활용 가능하며 사용자는 직접 DOM 요소를 선택해 원하는 정보만 알림받을 수 있습니다.
+Chrome Extension 기반으로 Slack OAuth 인증을 통해 자신의 워크스페이스에 알림을 연동할 수 있습니다.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 [팀 프로젝트 SnapBug](https://github.com/orgs/snap-bug/repositories)
+React 앱의 상태를 시각적으로 기록하고 복원하는 타임머신 디버깅 도구, Snapbug
+React 애플리케이션에서 상태 변경 이력을 자동으로 수집하고 시점별 상태와 UI를 되돌려볼 수 있는 디버깅 툴입니다.
+복잡한 상태 변화 흐름을 시각적으로 확인하고 되돌릴 수 있어 디버깅 및 리팩토링에 유용하며 명령어 한 줄로 UI를 공유하거나 다시 실행할 수 있습니다.
+CLI 명령어로 기록을 시작하고 종료하며 상태는 JSON으로 저장되어 웹 UI로 시각화됩니다.
